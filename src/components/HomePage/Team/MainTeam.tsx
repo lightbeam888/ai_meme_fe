@@ -49,9 +49,9 @@ export const MainTeam = () => {
       <div>
         <p className="font-vallejo text-[26px]">They include:</p>
         <ul className="list-disc pl-5 flex flex-col gap-4 mt-5 text-lg font-medium">
-          <li>Co-founders of five Coinbase listed projects</li>
+          <li>Co-founders of five Coinbase-listed projects</li>
           <li>Tradfi & VC participants at the institutional level both crypto and tech. </li>
-          <li>Prominent Industry KOLs that are household names in the space.</li>
+          <li>Prominent Industry KOLs that are household names in the crypto space.</li>
           <li>Track record of 9-figure corporate exits outside of crypto. </li>
         </ul>
       </div>

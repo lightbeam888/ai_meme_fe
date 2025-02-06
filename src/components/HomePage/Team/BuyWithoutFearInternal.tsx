@@ -34,12 +34,12 @@ export const BuyWithoutFearInternal = () => {
         </div>
         <div className="px-4 flex items-center justify-center mt-4">
           <button
-            className="text-lg text-center flex justify-center break-all items-center"
+            className="text-sm md:text-lg text-center flex justify-center items-end"
             onClick={handleCopy}
           >
             Ca: 0xeEC37AB9bb9058bEEb0B4f931f685Bb74fC42EeA{" "}
-            <span className="ml-2">
-              <Copy className="w-4" />
+            <span className="ml-2 md:mb-1">
+              <Copy className="w-3 md:w-4" />
             </span>{" "}
           </button>
         </div>

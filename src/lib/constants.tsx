@@ -37,13 +37,13 @@ export const socials = [
     disabled: false,
     href: "#",
     img: "/icons/coinmarketcap.svg"
+  },
+  {
+    title: "youtube",
+    href: "#",
+    img: "/icons/youtube2.svg",
+    name: "youtube"
   }
-  // {
-  //   title: "instagram",
-  //   href: "#",
-  //   img: "/icons/instagram.svg",
-  //   name: "instagram"
-  // },
 
   // {
   //   title: "tiktok",

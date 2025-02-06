@@ -6,7 +6,7 @@ import { socials } from "@/lib/constants";
 
 export const HeroSection = () => {
   return (
-    <div className=" relative ">
+    <div className="relative">
       <Image
         width={1400}
         height={1400}

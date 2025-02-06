@@ -5,8 +5,9 @@ import React from "react";
 
 const navItems = [
   { id: 1, href: "#", title: "About" },
-  { id: 2, href: "#", title: "Token" },
-  { id: 3, href: "#", title: "Team" }
+  { id: 2, href: "#", title: "Products" },
+  { id: 3, href: "#", title: "Team" },
+  { id: 3, href: "#", title: "community" }
 ];
 
 export const Header = () => {

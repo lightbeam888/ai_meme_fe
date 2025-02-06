@@ -29,9 +29,7 @@ export const WeBuiltAnArmy = () => {
               <Link href={"https://t.me/TheAkumanati"}>Join us</Link> while we flip AI on its head
               and use it to loosen the impact on jobs; not take it.
             </p>
-            <p>
-              We are building a new system that pays you for being human and using your creativity.
-            </p>
+            <p>We are building a new system that pays humans for their creativity and hard work.</p>
           </div>
         </div>
       </div>

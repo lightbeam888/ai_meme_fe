@@ -3,47 +3,47 @@ import React from "react";
 
 const team1 = [
   {
-    id: "matt",
-    name: "MATT WALLACE",
-    imgSrc: "/team/matt.png"
+    id: "bored",
+    name: "BORED",
+    imgSrc: "/team/royalties/1.jpeg"
   },
   {
-    id: "mario",
-    name: "MARIO NAWFAL",
-    imgSrc: "/team/mario.png"
+    id: "hunter orrell🔥",
+    name: "hunter orrell🔥",
+    imgSrc: "/team/royalties/2.jpeg"
   },
   {
-    id: "shiny",
-    name: "SHINY",
-    imgSrc: "/team/shiny.png"
+    id: "mattwright.eth | d/acc",
+    name: "mattwright.eth | d/acc",
+    imgSrc: "/team/royalties/3.jpeg"
   },
   {
-    id: "gmoney",
-    name: "GMONEY",
-    imgSrc: "/team/gmoney.png"
+    id: "Quigs.base.eth",
+    name: "Quigs.base.eth",
+    imgSrc: "/team/royalties/4.jpeg"
   }
 ];
 
 const team2 = [
   {
-    id: "gmoney",
-    name: "GMONEY",
-    imgSrc: "/team/gmoney.png"
+    id: "RENDR | rendə(r)",
+    name: "RENDR | rendə(r)",
+    imgSrc: "/team/royalties/5.jpeg"
   },
   {
-    id: "meltem",
-    name: "MELTEM",
-    imgSrc: "/team/meltem.png"
+    id: "Vitalis (cute/acc)",
+    name: "Vitalis (cute/acc)",
+    imgSrc: "/team/royalties/6.jpeg"
   },
   {
-    id: "fungibles",
-    name: "FUNGIBLES",
-    imgSrc: "/team/fungibles.png"
+    id: "Christopher Kocurek",
+    name: "Christopher Kocurek",
+    imgSrc: "/team/royalties/7.jpeg"
   },
   {
-    id: "drew",
-    name: "DREW AUSTIN",
-    imgSrc: "/team/drew-austin.png"
+    id: "fity.eth",
+    name: "fity.eth",
+    imgSrc: "/team/royalties/8.jpeg"
   }
 ];
 

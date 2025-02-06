@@ -5,37 +5,44 @@ const team = [
   {
     id: "matt",
     name: "MATT WALLACE",
-    imgSrc: "/team/matt.png"
+    imgSrc: "/team/matt.png",
+    href: "https://x.com/MattWallace888"
   },
   {
     id: "mario",
     name: "MARIO NAWFAL",
-    imgSrc: "/team/mario.png"
+    imgSrc: "/team/mario.png",
+    href: "https://x.com/MarioNawfal"
   },
   {
     id: "shiny",
     name: "SHINY",
-    imgSrc: "/team/shiny.png"
+    imgSrc: "/team/shiny.png",
+    href: "https://x.com/ohhshiny"
   },
   {
     id: "gmoney",
     name: "GMONEY",
-    imgSrc: "/team/gmoney.png"
+    imgSrc: "/team/gmoney.png",
+    href: "https://x.com/gmoneyNFT"
   },
   {
     id: "meltem",
     name: "MELTEM",
-    imgSrc: "/team/meltem.png"
+    imgSrc: "/team/meltem.png",
+    href: "https://x.com/Melt_Dem"
   },
   {
     id: "fungibles",
     name: "FUNGIBLES",
-    imgSrc: "/team/fungibles.png"
+    imgSrc: "/team/fungibles.png",
+    href: "https://x.com/fungibIes"
   },
   {
     id: "drew",
     name: "DREW AUSTIN",
-    imgSrc: "/team/drew-austin.png"
+    imgSrc: "/team/drew-austin.png",
+    href: "https://x.com/DrewAustin"
   }
 ];
 

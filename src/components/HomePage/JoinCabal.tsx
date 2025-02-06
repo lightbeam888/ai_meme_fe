@@ -8,11 +8,11 @@ const redSocials = [
     href: "https://youtube.com/@akumainutoken",
     imgSrc: "/socials/youtube-red.svg"
   },
-  {
-    id: 2,
-    href: "https://soundcloud.com/inuakuma66",
-    imgSrc: "/socials/reddit.svg"
-  },
+  // {
+  //   id: 2,
+  //   href: "https://soundcloud.com/inuakuma66",
+  //   imgSrc: "/socials/reddit.svg"
+  // },
   {
     id: 3,
     href: "https://www.tiktok.com/@baseakumainu",

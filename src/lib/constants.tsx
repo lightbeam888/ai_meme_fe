@@ -14,10 +14,16 @@ export const socials = [
     img: "/icons/x.svg",
     name: "twitter"
   },
+  // {
+  //   title: "Discord",
+  //   href: "#",
+  //   img: "/icons/discord.svg",
+  //   name: "discord"
+  // },
   {
-    title: "Discord",
-    href: "#",
-    img: "/icons/discord.svg",
+    title: "Sound Cloud",
+    href: "https://soundcloud.com/inuakuma66",
+    img: "/socials/sound-cloud.svg",
     name: "discord"
   },
   {

@@ -50,7 +50,7 @@ const team2 = [
 export const Royalty = () => {
   return (
     <div>
-      <div className="text-center pt-[100px] md:pt-[178px] pb-[130px] md:pb-[219px]">
+      <div className="text-center pt-[50px] md:pt-[100px] pb-[50px] md:pb-[100px]">
         <p className="max-w-[641px] mx-auto text-[48px] md:text-[100px] font-vallejo uppercase ">
           AKUMANATI <span className="text-red">ROYALTY</span>
         </p>

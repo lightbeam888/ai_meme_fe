@@ -17,7 +17,9 @@ export const HonoraryMembers = () => {
               <p className="mt-10">{`Join the most powerful Cabal in crypto. 
 Buy 1M Akuma or {hold?} a GNFT)…
 `}</p>
-              <p className="mt-6">Join chat: t.me/probablyzero </p>
+              <Link href={"https://t.me/TheAkumanati"} className="mt-6 block">
+                Join chat: t.me/probablyzero{" "}
+              </Link>
             </div>
             <div className="flex justify-center md:justify-start md:items-start gap-6 mt-8">
               <Link href={"#"}>

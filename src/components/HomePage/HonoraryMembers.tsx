@@ -22,10 +22,10 @@ Buy 1M Akuma or {hold?} a GNFT)…
               </Link>
             </div>
             <div className="flex justify-center md:justify-start md:items-start gap-6 mt-8">
-              <Link href={"#"}>
+              <Link target="_blank" href={"https://t.me/TheAkumanati"}>
                 <Image src={"/socials/Telegram.png"} width={38} height={32} alt="telegram" />
               </Link>
-              <Link href={"#"}>
+              <Link href={"https://x.com/AkumaInuPrime"} target="_blank">
                 <Image src={"/socials/x.png"} width={38} height={32} alt="telegram" />
               </Link>
             </div>

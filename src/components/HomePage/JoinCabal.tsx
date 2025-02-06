@@ -5,27 +5,27 @@ import React from "react";
 const redSocials = [
   {
     id: 1,
-    href: "#",
+    href: "https://youtube.com/@akumainutoken",
     imgSrc: "/socials/youtube-red.svg"
   },
-  {
-    id: 2,
-    href: "#",
-    imgSrc: "/socials/reddit.svg"
-  },
+  // {
+  //   id: 2,
+  //   href: "#",
+  //   imgSrc: "/socials/reddit.svg"
+  // },
   {
     id: 3,
-    href: "#",
+    href: "https://www.tiktok.com/@baseakumainu",
     imgSrc: "/socials/tiktok.svg"
   },
   {
     id: 5,
-    href: "#",
+    href: "https://x.com/AkumaInuPrime",
     imgSrc: "/socials/x.svg"
   },
   {
     id: 6,
-    href: "#",
+    href: "https://www.instagram.com/baseakumainu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     imgSrc: "/socials/instagram.svg"
   }
 ];

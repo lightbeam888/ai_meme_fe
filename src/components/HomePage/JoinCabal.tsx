@@ -42,8 +42,8 @@ export const JoinCabal = () => {
               </p>
               <p className="mt-[29px] md:mt-[59px] max-w-[342px] md:max-w-[unset] text-[22px] md:text-[35px] break-all font-raleway mx-auto text-center md:text-left">
                 Join chat:{" "}
-                <Link className="text-red" href={"https://www.t.me/probablyzero"}>
-                  t.me/probablyzero
+                <Link className="text-red" href={"https://t.me/TheAkumanati"}>
+                  t.me/TheAkumanati
                 </Link>{" "}
               </p>
             </div>

@@ -31,9 +31,9 @@ export const AkumaProducts = () => {
                 />
                 <p className="text-red text-[60px] font-vallejo leading-[1]">AKUMA VAULT</p>
                 <p className="font-medium text-lg mt-6 md:mt-10">
-                  Removes the barriers to projects achieving higher market caps, because they can
-                  focus on building and growing their communities. Akuma Vault will be used by
-                  future memes to manage their holders, and prevent malicious and stupid behavior.
+                  Removes the barriers for projects in order to achieve higher market caps, allowing
+                  them to focus on building and growing their communities. Akuma Vault will be used
+                  by future memes to manage their holders, preventing malicious and stupid behavior.
                 </p>
               </div>
             </div>
@@ -50,16 +50,19 @@ export const AkumaProducts = () => {
                 <p className="text-red text-[60px] font-vallejo leading-[1]">AKUMABOT</p>
                 <p className="font-medium text-lg mt-6 md:mt-10">
                   Will be the (taking inspiration from Bonk) first genuine AI telegram trading bot
-                  (taking inspiration from Bonk, our team includes Bonk founders). There isn’t a
-                  quality base telegram bot currently, and we need to change that. Additionally, new
-                  memes should use this bot to build their own treasuries while benefiting ours.
+                  (taking inspiration from Bonk, our team includes Bonk founders). Currently, a
+                  quality telegram bot does not exist on Base; we are going to change that.Taking
+                  inspiration from Bonk (several founders of which are on our team), AkumaBot will b
+                  a unique I telegram trading bot on Base. Additionally, new memes should use this
+                  bot to build their own treasuries while benefiting ours.
                 </p>
               </div>
             </div>
           </div>
 
           <p className="p-4 mt-12 bg-black text-center max-w-[774px] mx-auto text-[18px]">
-            Our road map is ridiculous. Follow our announcements channel for real-time updates.
+            Our road map is <strong className="uppercase">ridiculous</strong>. Follow our
+            announcements channel for real-time updates.
           </p>
         </div>
       </div>

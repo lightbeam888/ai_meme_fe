@@ -2,11 +2,7 @@ import Image from "next/image";
 import React from "react";
 
 export const AkumaProducts = () => {
-  const topText = `Akuma Inu is not just a dog. AI stands for Akuma Inu. Our community has fully
-                embraced a new meta that encourages builders to build, not PVP. We are not simply
-                another agent or launchpad. Akuma Inu’s contribution to crypto will be through
-                spreading the infrastructure that becomes the connective tissue for launching and
-                managing memes.`;
+  const topText = `Akuma Inu is not just a dog. AI stands for Akuma Inu. Our community has fully embraced a new meta that encourages builders to focus on building instead of PVP. We are not simply another agent or launchpad. Akuma Inu’s contribution to crypto will be through building the infrastructure that becomes the connective tissue for launching and managing memes.`;
 
   return (
     <div className="relative px-4 md:px-0">

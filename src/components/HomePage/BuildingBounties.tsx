@@ -29,7 +29,7 @@ export const BuildingBounties = () => {
               className={cn(
                 "bg-[#151515] p-4 flex items-center justify-center rounded-lg font-vallejo text-[12px] md:text-[28px]",
 
-                "lg:w-[218px] w-[100px] md:w-[180px] px-4  h-[45px] md:h-[98px]",
+                "lg:w-[218px] w-[160px] md:w-[180px] px-4  h-[45px] md:h-[98px]",
                 val.isEmpty && "bg-transparent"
               )}
             >

@@ -42,6 +42,7 @@ export const BuildingBounties = () => {
           <p>
             Buy 1M $AKUMA:{" "}
             <Link
+              target="_blank"
               href={
                 "https://app.uniswap.org/explore/tokens/base/0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6"
               }

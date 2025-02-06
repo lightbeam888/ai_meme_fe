@@ -1,4 +1,5 @@
 import { cn } from "@/lib/utils";
+import Link from "next/link";
 import React from "react";
 
 export const BuildingBounties = () => {
@@ -38,7 +39,16 @@ export const BuildingBounties = () => {
         </div>
         <div className="flex justify-center mt-6 md:mt-12 text-center mx-auto flex-col gap-5 text-[18px] font-medium  ">
           <p>Whatever needs to be dreamt up, can be in the Akumanati.</p>
-          <p>Buy 1M $AKUMA: link to uniswap</p>
+          <p>
+            Buy 1M $AKUMA:{" "}
+            <Link
+              href={
+                "https://app.uniswap.org/explore/tokens/base/0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6"
+              }
+            >
+              Uniswap
+            </Link>
+          </p>
           <p>Or Hold an Akumanati NFT</p>
           <p>Join the most powerful cabal in crypto and come build at light speed with us.</p>
         </div>

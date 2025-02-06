@@ -1,7 +1,16 @@
+"use client";
+
+import { Copy } from "lucide-react";
 import Link from "next/link";
 import React from "react";
+import { toast } from "react-hot-toast";
 
 export const BuyWithoutFearInternal = () => {
+  const handleCopy = () => {
+    navigator.clipboard.writeText("0xeEC37AB9bb9058bEEb0B4f931f685Bb74fC42EeA");
+    toast.success("Copied!");
+  };
+
   return (
     <div>
       {" "}
@@ -23,8 +32,16 @@ export const BuyWithoutFearInternal = () => {
             CRYPTO
           </Link>
         </div>
-        <div className="px-4 mt-4">
-          <p className="text-lg text-center">Ca: 0xeEC37AB9bb9058bEEb0B4f931f685Bb74fC42EeA</p>
+        <div className="px-4 flex items-center justify-center mt-4">
+          <button
+            className="text-lg text-center flex justify-center break-all items-center"
+            onClick={handleCopy}
+          >
+            Ca: 0xeEC37AB9bb9058bEEb0B4f931f685Bb74fC42EeA{" "}
+            <span className="ml-2">
+              <Copy className="w-4" />
+            </span>{" "}
+          </button>
         </div>
       </div>
     </div>
